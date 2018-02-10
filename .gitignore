@@ -13,3 +13,7 @@ target
 # log Files
 *.log
 
+#vscode
+.settings/
+.project
+.classpath
